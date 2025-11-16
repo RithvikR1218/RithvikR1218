@@ -1,1 +1,1 @@
-# RithvikR1218
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=7000&pause=500&color=245FF7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Rithvik+Ravilla)](https://git.io/typing-svg)
